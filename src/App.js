@@ -18,7 +18,8 @@ class App extends Component {
             id = {puppy.id}
             key = {puppy.id}
             alt = {puppy.alt}
-            image = {puppy.image} 
+            image = {puppy.image}
+            clicked = {puppy.clicked} 
           />
         ))}
       </Wrapper>
