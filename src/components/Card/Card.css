@@ -1,0 +1,16 @@
+.card {
+    background: #fafafa;
+    border-radius: 5px;
+    width: 375px;
+    height: 275px;
+    position: relative
+}
+
+.card > .imgGuy {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+    vertical-align: middle;
+    padding-top: 10px
+    
+}
