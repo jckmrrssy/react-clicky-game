@@ -1,62 +1,74 @@
 [
     {
         "id": 1,
-        "image": "./public/images/doggo1.jpeg",
-        "clicked": false
+        "image": "./images/doggo1.jpeg",
+        "clicked": false,
+        "alt": "doggo1"
     },
     {
         "id": 2,
-        "image": "./public/images/doggo2.jpeg",
-        "clicked": false
+        "image": "./images/doggo2.jpeg",
+        "clicked": false,
+        "alt": "doggo2"
     },
     {
         "id": 3,
-        "image": "./public/images/doggo3.jpeg",
-        "clicked": false
+        "image": "./images/doggo3.jpeg",
+        "clicked": false,
+        "alt": "doggo3"
     },
     {
         "id": 4,
-        "image": "./public/images/doggo4.jpeg",
-        "clicked": false
+        "image": "./images/doggo4.jpeg",
+        "clicked": false,
+        "alt": "doggo4"
     },
     {
         "id": 5,
-        "image": "./public/images/doggo5.jpeg",
-        "clicked": false
+        "image": "./images/doggo5.jpeg",
+        "clicked": false,
+        "alt": "doggo5"
     },
     {
         "id": 6,
-        "image": "./public/images/doggo6.jpeg",
-        "clicked": false
+        "image": "./images/doggo6.jpeg",
+        "clicked": false,
+        "alt": "doggo6"
     },
     {
         "id": 7,
-        "image": "./public/images/doggo7.jpeg",
-        "clicked": false
+        "image": "./images/doggo7.jpeg",
+        "clicked": false,
+        "alt": "doggo7"
     },
     {
         "id": 8,
-        "image": "./public/images/doggo8.jpeg",
-        "clicked": false
+        "image": "./images/doggo8.jpeg",
+        "clicked": false,
+        "alt": "doggo8"
     },
     {
         "id": 9,
-        "image": "./public/images/doggo9.jpeg",
-        "clicked": false
+        "image": "./images/doggo9.jpeg",
+        "clicked": false,
+        "alt": "doggo9"
     },
     {
         "id": 10,
-        "image": "./public/images/doggo10.jpeg",
-        "clicked": false
+        "image": "./images/doggo10.jpeg",
+        "clicked": false,
+        "alt": "doggo10"
     },
     {
         "id": 11,
-        "image": "./public/images/doggo11.jpeg",
-        "clicked": false
+        "image": "./images/doggo11.jpeg",
+        "clicked": false,
+        "alt": "doggo11"
     },
     {
         "id": 12,
-        "image": "./public/images/doggo12.jpeg",
-        "clicked": false
+        "image": "./images/doggo12.jpeg",
+        "clicked": false,
+        "alt": "doggo12"
     }
 ]
