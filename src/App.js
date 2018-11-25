@@ -9,6 +9,12 @@ class App extends Component {
   state = {
     puppies
   };
+
+  clickGuess = id => {
+
+      const puppies = this.state.puppies.map
+      this.setState({ puppies });
+  }
   
   render() {   
     return ( 

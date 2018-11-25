@@ -12,5 +12,9 @@
     align-content: flex-start;
     vertical-align: middle;
     padding-top: 10px
-    
+}
+
+.card > .imgGuy:hover {
+    cursor: pointer;
+    opacity: .5;
 }
