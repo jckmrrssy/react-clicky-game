@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./public/images/doggo1.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./public/images/doggo2.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./public/images/doggo3.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./public/images/doggo4.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./public/images/doggo5.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./public/images/doggo6.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./public/images/doggo7.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./public/images/doggo8.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./public/images/doggo9.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./public/images/doggo10.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./public/images/doggo11.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./public/images/doggo12.jpeg",
+        "clicked": false
+    }
+]
