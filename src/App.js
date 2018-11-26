@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
+import Card from "./components/Card"
 import Wrapper from "./components/Wrapper";
 import puppies from "./puppies.json"
-import Card from "./components/Card"
 import './App.css';
 
 class App extends Component {
@@ -11,7 +11,7 @@ class App extends Component {
   };
 
   clickGuess = id => {
-
+    
       const puppies = this.state.puppies.map
       this.setState({ puppies });
   }
